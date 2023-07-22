@@ -1,5 +1,5 @@
 Arrival is an Android app for booking tickets for trains and tracking your train.
-the application is made by Flutter, dart with data saved in Firebase.
+Flutter, dart, and Firebase make the application.
 
 
 
